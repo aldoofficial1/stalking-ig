@@ -3,17 +3,6 @@
 Interactive Node.js script untuk stalking akun Instagram di terminal ala bot WA.
 
 ---
-
-## Fitur
-
-* Input username via terminal (readline)
-* Spinner saat request menggunakan `ora`
-* Error handling menggunakan `try...catch`
-* Output rapi dengan box, warna, emoji ala bot WhatsApp
-* Loop: bisa stalking banyak username tanpa restart (ketik `exit` untuk keluar)
-* Header & branding: "Stalking Instagram by AldoOfficialR"
-* Link avatar & bio panjang otomatis dimask (`[link removed]`)
-
 ## Instalasi
 
 Pastikan Node.js sudah terpasang.
